@@ -1,4 +1,9 @@
 master second file
 
 
+<<<<<<< HEAD
 new text
+=======
+added new text
+in three branch
+>>>>>>> three

@@ -1,1 +1,4 @@
 master second file
+
+
+new text
